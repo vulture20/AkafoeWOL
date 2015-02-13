@@ -1,0 +1,5 @@
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\bin\Release\AkafoeWOL.exe
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\bin\Release\AkafoeWOL.pdb
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\obj\x86\Release\AkafoeWOL.exe
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\obj\x86\Release\AkafoeWOL.pdb

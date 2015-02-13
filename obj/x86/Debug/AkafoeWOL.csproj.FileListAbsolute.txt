@@ -1,0 +1,7 @@
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\bin\Debug\AkafoeWOL.exe
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\bin\Debug\AkafoeWOL.pdb
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\obj\x86\Debug\AkafoeWOL.exe
+c:\users\schröpel\documents\visual studio 2010\Projects\AkafoeWOL\AkafoeWOL\obj\x86\Debug\AkafoeWOL.pdb
+\\stor-serv\edvplatte\Admin Tools\AkafoeWOL\AkafoeWOL\obj\x86\Debug\AkafoeWOL.exe
+\\stor-serv\edvplatte\Admin Tools\AkafoeWOL\AkafoeWOL\obj\x86\Debug\AkafoeWOL.pdb
